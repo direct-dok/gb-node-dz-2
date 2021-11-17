@@ -1,0 +1,1 @@
+let paramsTimes = process.argv.slice(2)
